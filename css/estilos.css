@@ -228,11 +228,9 @@ form.form_contact input[type="button"]:hover{
     display: inline-block;
 	padding: 3px 10px;
 	margin-top: 10px;
-
-	background: #E25151;
+    background: #E25151;
 	color: #fff;
 	border: 2px solid #B14141;
 	cursor: pointer;
-
 	float: right;
 }
